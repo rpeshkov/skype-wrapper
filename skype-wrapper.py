@@ -5,6 +5,8 @@ import shutil
 import stat
 import re
 
+skype_env = os.environ.copy()
+#skype_env["PULSE_LATENCY_MSEC"] = "60"
 skype_bin = '/usr/bin/skype'
 
 def is_running(process):
@@ -95,7 +97,7 @@ if __name__ == '__main__':
 		print 'Skype already running'
 		exit(1)
 
-	pid = subprocess.Popen([skype_bin]).pid
+	pid = subprocess.Popen([skype_bin], env=skype_env).pid
 	print pid
 	
 	substr = "sni-qt_skype_{0}".format(pid)
