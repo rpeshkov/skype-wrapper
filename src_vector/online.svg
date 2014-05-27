@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg4056"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/rpeshkov/Workspace/skype-wrapper/online.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="online.svg">
+  <defs
+     id="defs4058">
+    <linearGradient
+       id="linearGradient3760">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3762" />
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="1"
+         id="stop3764" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3760"
+       id="linearGradient3766"
+       x1="10.539704"
+       y1="1030.3903"
+       x2="10.539704"
+       y2="1052.1652"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.5700475"
+     inkscape:cx="-11.127175"
+     inkscape:cy="16.450116"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4061">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1"
+       d="m 7.4909437,1034.3623 c -2.41191,0 -4.3702199,1.936 -4.3702199,4.3218 0,0.7929 0.226732,1.5263 0.603622,2.165 -0.08065,0.4519 -0.128773,0.9166 -0.128773,1.3924 0,4.2474 3.358648,7.6941 7.5010052,7.6941 0.441992,0 0.87477,-0.046 1.295775,-0.1207 0.628467,0.3463 1.354114,0.5473 2.124748,0.5473 2.412168,0 4.362175,-1.9358 4.362175,-4.322 0,-0.72 -0.17592,-1.3988 -0.490945,-1.9958 0.13533,-0.578 0.20925,-1.1823 0.20925,-1.8028 0,-4.2474 -3.358392,-7.6942 -7.501003,-7.6942 -0.60725,0 -1.1971401,0.086 -1.7625751,0.2254 -0.561574,-0.26 -1.181965,-0.4105 -1.843059,-0.4105 z m 7.2354133,3.6539 1.488934,1.4889 -6.9698191,6.994 -1.4889342,-1.4809 0.01609,-0.016 -1.5613679,-1.5533 1.4808849,-1.4889 1.5613691,1.5533 5.4728362,-5.497 z"
+       id="path24965_2_-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rpeshkov/Workspace/skype-wrapper/online.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3766);fill-opacity:1"
+       d="m 7.4909443,1033.3622 c -2.4119105,0 -4.3702205,1.936 -4.3702205,4.3219 0,0.7929 0.2267323,1.5263 0.6036219,2.165 -0.080653,0.4519 -0.1287731,0.9166 -0.1287731,1.3924 0,4.2474 3.3586481,7.6942 7.5010064,7.6942 0.441992,0 0.87477,-0.046 1.295775,-0.1208 0.628467,0.3464 1.354113,0.5473 2.124748,0.5473 2.412168,0 4.362174,-1.9358 4.362174,-4.322 0,-0.72 -0.17592,-1.3989 -0.490945,-1.9959 0.13533,-0.578 0.209251,-1.1823 0.209251,-1.8028 0,-4.2474 -3.358392,-7.6942 -7.501003,-7.6942 -0.607251,0 -1.1971411,0.086 -1.7625759,0.2254 -0.5615745,-0.26 -1.1819651,-0.4105 -1.8430589,-0.4105 z m 7.2354137,3.6539 1.488934,1.4888 -6.9698198,6.9941 -1.4889338,-1.4809 0.016095,-0.016 -1.561368,-1.5533 1.4808844,-1.4889 1.5613687,1.5533 5.4728375,-5.497 z"
+       id="path24965_2_"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rpeshkov/Workspace/skype-wrapper/online.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
