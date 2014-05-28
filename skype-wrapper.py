@@ -94,7 +94,8 @@ if __name__ == '__main__':
 	]
 
 	if is_running(skype_bin):
-		print 'Skype already running'
+		print 'Skype already running. Starting again without injecting sni-qt cache to bring skype window on top.'
+		subprocess.call([skype_bin]);
 		exit(1)
 
 	pid = subprocess.Popen([skype_bin], env=skype_env).pid
