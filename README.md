@@ -4,7 +4,7 @@ Sets of icons for patched Sni-Qt. To use this icons you need to install my updat
 
 #Screenshot
 
-![Ugly & Cute](http://eos-tips.com/wp-content/uploads/2014/02/ugly-and-cute.png)
+![Ugly & Cute](http://rpeshkov.ru/images/ugly-and-cute.png)
 
 #Note for Mint (Cinnamon) users
 
